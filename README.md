@@ -20,8 +20,9 @@ This repository consists of **practice** and **solutions** of HackerRank Challen
 * [Java](#Java)
 
 ### Java
-
-|                   Challenge                   |       Subdomain       |                                             Problem                                              | Difficulty | Score |                                             Solution                                              |
-| :-------------------------------------------: | :-------------------: | :----------------------------------------------------------------------------------------------: | :--------: | :---: | :-----------------------------------------------------------------------------------------------: |
-|     01.Welcome to Java        |     Introduction      |             [Problem](https://www.hackerrank.com/challenges/welcome-to-java)              |    Easy    |   5   |   [Solution](https://github.com/Md-Adnan-Abir/CodeQuest-HackerRank/blob/main/Java/01_Introduction/Welcome_to_Java.java)   |
-| 02.Java Stdin and Stdout I    |     Introduction      |             [Problem](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)              |    Easy    |   5   |   [Solution](https://github.com/Md-Adnan-Abir/CodeQuest-HackerRank/blob/main/Java/01_Introduction/Stdin_and_Stdout_I.java)   |
+   
+|          Challenge           |       Subdomain       |                                             Problem                                               |  Difficulty | Score |                                                       Solution                                                            |
+| :--------------------------: | :-------------------: | :-----------------------------------------------------------------------------------------------: | :---------: | :---: | :-----------------------------------------------------------------------------------------------------------------------: |
+|01.Welcome to Java            |Introduction           |[Problem](https://www.hackerrank.com/challenges/welcome-to-java)                                   |Easy         |5      |[Solution](https://github.com/Md-Adnan-Abir/CodeQuest-HackerRank/blob/main/Java/01_Introduction/Welcome_to_Java.java)      |
+|02.Java Stdin and Stdout I    |Introduction           |[Problem](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)                           |Easy         |5      |[Solution](https://github.com/Md-Adnan-Abir/CodeQuest-HackerRank/blob/main/Java/01_Introduction/Stdin_and_Stdout_I.java)   |
+|03.Java if_else               |Introduction           |[Problem](https://www.hackerrank.com/challenges/java-if-else/)                                     |Easy         |5      |[Solution](https://github.com/Md-Adnan-Abir/CodeQuest-HackerRank/blob/main/Java/01_Introduction/if_else.java)              |
